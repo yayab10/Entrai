@@ -1,0 +1,14 @@
+#blockJeu{
+    width: 80vw;
+    height: 80vh;
+    display: flex;
+    margin: auto;
+    border: solid 5px black;
+}
+/* #joueurGauche{
+    width: 50%;
+    background-color: rebeccapurple;
+} */
+/* #joueurDroite{
+    width: 50%;
+} */
